@@ -56,7 +56,7 @@ You can add `SwiftUIShapeDemoUtils` as a package dependency in your `Package.swi
 let package = Package(
     //...
     dependencies: [
-        .package(url: "https://github.com/CypherPoet/SwiftUIShapeDemoUtils", .exact("0.0.1")),
+        .package(url: "https://github.com/CypherPoet/SwiftUIShapeDemoUtils", .exact("0.0.2")),
     ],
     //...
 )
