@@ -1,0 +1,173 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/.build/x86_64-apple-macosx/debug/SwiftUIShapeDemoUtils.build/DerivedSources/resource_bundle_accessor.swift",
+      "line": 4,
+      "symbol": "Foundation.Bundle.module",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 4,
+      "symbol": "ThemeColors",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 6,
+      "symbol": "ThemeColors.Theme1",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 7,
+      "symbol": "ThemeColors.Theme1.primary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 8,
+      "symbol": "ThemeColors.Theme1.accent",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 9,
+      "symbol": "ThemeColors.Theme1.secondary1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 10,
+      "symbol": "ThemeColors.Theme1.secondary2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 11,
+      "symbol": "ThemeColors.Theme1.secondary3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 12,
+      "symbol": "ThemeColors.Theme1.background1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 15,
+      "symbol": "ThemeColors.Theme2",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 16,
+      "symbol": "ThemeColors.Theme2.primary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 17,
+      "symbol": "ThemeColors.Theme2.accent",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 18,
+      "symbol": "ThemeColors.Theme2.secondary1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 19,
+      "symbol": "ThemeColors.Theme2.secondary2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 20,
+      "symbol": "ThemeColors.Theme2.background1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 28,
+      "symbol": "ThemeColors_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 30,
+      "symbol": "ThemeColors_Previews.theme1ColorDictionary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 39,
+      "symbol": "ThemeColors_Previews.theme2ColorDictionary",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Colors/ThemeColors.swift",
+      "line": 48,
+      "symbol": "ThemeColors_Previews.colorsListView",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Images/ImageAssets.swift",
+      "line": 4,
+      "symbol": "ImageAssets",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Images/ImageAssets.swift",
+      "line": 5,
+      "symbol": "ImageAssets.earthAtNight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Images/ImageAssets.swift",
+      "line": 6,
+      "symbol": "ImageAssets.nightSky1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Images/ImageAssets.swift",
+      "line": 7,
+      "symbol": "ImageAssets.nightSky2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils/Sources/SwiftUIShapeDemoUtils/Styling/Images/ImageAssets.swift",
+      "line": 8,
+      "symbol": "ImageAssets.mountain",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/briansipple/Projects/swift/Packages/shape-packages/SwiftUIShapeDemoUtils"
+}
